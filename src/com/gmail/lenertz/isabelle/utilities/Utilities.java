@@ -1,3 +1,4 @@
+package com.gmail.lenertz.isabelle.utilities;
 import java.util.Scanner;
 
 public class Utilities{

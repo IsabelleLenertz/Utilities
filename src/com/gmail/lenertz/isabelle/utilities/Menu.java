@@ -1,3 +1,4 @@
+package com.gmail.lenertz.isabelle.utilities;
 public class Menu{
 	
 	private int size;
@@ -27,8 +28,8 @@ public class Menu{
 	/**
 	 * Prints the Menu
 	 */
-	public void DisplayMenu(){
-		System.out.println(this.menu);
+	public String DisplayMenu(){
+		 return this.menu;
 	}
 	
 	/**
